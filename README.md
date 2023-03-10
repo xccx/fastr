@@ -17,6 +17,8 @@ do things faster
 
 fastr
 
-github.com/readfm mess'll clean up here maybe
+1) NOSTR adoption faster
+
+2) http://github.com/readfm stuff do faster here
 
 
