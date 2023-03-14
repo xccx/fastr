@@ -1,24 +1,8 @@
 # fastr
-fastr build adoption fastr   
+fastr build adoption fastr 
 
-build less "what", build more "when"
+oo options|option extension web2 social to nostr read/write
 
-like later today or early tomorrow when
+http://github.com/readfm/xc8 gonna move here soon
 
-fail faster blabla learn faster yddaydda
-
-try 8 hour things
-
-try 8 second games
-
-try 8 minute explanations... or not
-
-do things faster
-
-fastr
-
-1) NOSTR adoption faster
-
-2) http://github.com/readfm stuff do faster here
-
-
+have a nice day :)
